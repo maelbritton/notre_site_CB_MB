@@ -1,0 +1,99 @@
+body {
+margin:0;
+padding:0;
+box-sizing: border-box;
+background-color: #040404;
+background-image: url(fond.jpg);
+}
+
+#test{
+	font-size:200%;
+	color:black;
+}
+#menu {
+position: fixed;
+width: 100%;
+height: 80px;
+display:flex;
+justify-content: space-around;
+align-items: center;
+background: #735D45;
+align-items: center;
+z-index: 10;
+}   
+
+#menu h1{
+font-family: EuropaNuovaE;
+color: #f4f4f4;
+font-size: 30px;
+display:flex;
+justify-content: space-around;
+}
+   
+   
+.lien-navigation{
+display:flex;
+justify-content: space-around;
+width: 40%;
+}
+
+.lien-navigation li{
+list-style:none;
+}
+
+.lien-navigation a{
+color:#f4f4f4;
+text-decoration: none;
+letter-spacing: 2px;
+font-family: EuropaNuovaE;
+font-size: 20px;
+}
+
+
+
+.lien-navigation1{
+display:flex;
+justify-content: space-around;
+width: 40%;
+}
+
+.lien-navigation1 li{
+list-style:none;
+}
+
+.lien-navigation1 a{
+color:black;
+text-decoration: none;
+letter-spacing: 2px;
+font-family: EuropaNuovaE;
+font-size: 150%;
+
+}
+
+
+#sousmenu{
+	padding-top:100px;
+	display:flex;
+	justify-content:center;
+	margin:auto;
+}
+
+
+
+.Basdepage{
+	padding-top:250px;
+	font-size:200%;
+	text-align:center;
+	width:80%;
+	display:flex;
+	justify-content:center;
+	margin:auto;
+}
+
+
+
+.Basdepage span{
+	font-size:150%;
+
+}
+
