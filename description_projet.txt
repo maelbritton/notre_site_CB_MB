@@ -1,0 +1,30 @@
+A - Thème : Boutique de chocolat
+C - Description des pages :
+
+  Accueil
+      Dans cette page, nous trouverons une courte présentation de la boutique
+  A propos
+    • EQUIPES
+      Dans cette page, nous trouverons toutes les informations sur les chocolatiers.
+    • nos magasins (localisations)
+       Dans cette page, nous trouverons toutes les boutiques dans le monde.
+  Catalogues
+      
+    • NOS CRÉATIONS
+       Dans cette page, nous trouverons toutes les créations des chocolatiers.
+    • NOUVEAUTÉS 
+       Dans cette page, nous trouverons les nouvelles créations misent en avant.
+    • NOS Viennoiserie
+       Dans cette page, nous trouverons toutes nos viennoiseries
+
+  Contact
+       Dans cette page, nous trouverons tous les moyens de nous contacter tel que l’adresse mail, l’adresse postale, le numéro de téléphone.
+
+D - Technologies utilisées :
+   Pour le site internet, nous allons utiliser du HTML, CSS ainsi que du JS
+
+E - Planification :
+
+  Clément : Design et conception des pages
+
+  Maël : Contenu des pages et conception de la page d’accueil
