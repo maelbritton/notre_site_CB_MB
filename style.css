@@ -97,3 +97,32 @@ font-size: 150%;
 
 }
 
+.Basdepage1{
+	padding-top:120px;
+	font-size:200%;
+	text-align:center;
+	width:80%;
+	display:flex;
+	justify-content:center;
+	margin:auto;
+}
+
+#lieux{
+
+padding-top:50px;
+display:flex;
+justify-content: center;
+margin:auto;
+
+}
+
+
+#catalogue{
+display:flex;
+justify-content: center;
+margin:auto;
+
+}
+#catalogue img{
+margin:100px;
+}
